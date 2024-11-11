@@ -1,0 +1,14 @@
+c:\Users\Dell\Documents\VScode project\Gang\Grin\bin\Debug\net8.0\Grin.exe
+c:\Users\Dell\Documents\VScode project\Gang\Grin\bin\Debug\net8.0\Grin.deps.json
+c:\Users\Dell\Documents\VScode project\Gang\Grin\bin\Debug\net8.0\Grin.runtimeconfig.json
+c:\Users\Dell\Documents\VScode project\Gang\Grin\bin\Debug\net8.0\Grin.dll
+c:\Users\Dell\Documents\VScode project\Gang\Grin\bin\Debug\net8.0\Grin.pdb
+c:\Users\Dell\Documents\VScode project\Gang\Grin\obj\Debug\net8.0\Grin.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dell\Documents\VScode project\Gang\Grin\obj\Debug\net8.0\Grin.AssemblyInfoInputs.cache
+c:\Users\Dell\Documents\VScode project\Gang\Grin\obj\Debug\net8.0\Grin.AssemblyInfo.cs
+c:\Users\Dell\Documents\VScode project\Gang\Grin\obj\Debug\net8.0\Grin.csproj.CoreCompileInputs.cache
+c:\Users\Dell\Documents\VScode project\Gang\Grin\obj\Debug\net8.0\Grin.dll
+c:\Users\Dell\Documents\VScode project\Gang\Grin\obj\Debug\net8.0\refint\Grin.dll
+c:\Users\Dell\Documents\VScode project\Gang\Grin\obj\Debug\net8.0\Grin.pdb
+c:\Users\Dell\Documents\VScode project\Gang\Grin\obj\Debug\net8.0\Grin.genruntimeconfig.cache
+c:\Users\Dell\Documents\VScode project\Gang\Grin\obj\Debug\net8.0\ref\Grin.dll
